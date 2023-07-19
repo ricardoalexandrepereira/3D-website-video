@@ -1,0 +1,17 @@
+html, body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+@font-face {
+  font-family: "timesTitle";
+  src: url("../fonts/NewYork\ PERSONAL\ USE.otf");
+}
+@font-face {
+  font-family: "timesSubtitle";
+  src: url("../fonts/Newston Regular.otf");
+}
+
+
